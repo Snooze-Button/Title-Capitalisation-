@@ -15,7 +15,7 @@ Many wriiters are often confused by the different methods of capitalising titles
  **Example 1:** "i love solving problems and it is fun"
  Would return "I Love Solving Problems and It Is Fun"
  
- **Example 2:* "wHy DoeS A biRd Fly?"
+ **Example 2:** "wHy DoeS A biRd Fly?"
  Would return "Why Does a Bird Fly?"
  
  ## Result
