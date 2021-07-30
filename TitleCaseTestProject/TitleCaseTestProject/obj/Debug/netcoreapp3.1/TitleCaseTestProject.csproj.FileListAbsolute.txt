@@ -1,0 +1,13 @@
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\bin\Debug\netcoreapp3.1\TitleCaseTestProject.exe
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\bin\Debug\netcoreapp3.1\TitleCaseTestProject.deps.json
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\bin\Debug\netcoreapp3.1\TitleCaseTestProject.runtimeconfig.json
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\bin\Debug\netcoreapp3.1\TitleCaseTestProject.runtimeconfig.dev.json
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\bin\Debug\netcoreapp3.1\TitleCaseTestProject.dll
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\bin\Debug\netcoreapp3.1\TitleCaseTestProject.pdb
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.csproj.AssemblyReference.cache
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.AssemblyInfoInputs.cache
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.AssemblyInfo.cs
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.csproj.CoreCompileInputs.cache
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.dll
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.pdb
+C:\Users\GGWP\Desktop\C# Projects\TitleCaseTestProject\TitleCaseTestProject\obj\Debug\netcoreapp3.1\TitleCaseTestProject.genruntimeconfig.cache

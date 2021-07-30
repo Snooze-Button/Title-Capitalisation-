@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GGWP\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GGWP\\.nuget\\packages"
+    ]
+  }
+}
